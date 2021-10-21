@@ -1,0 +1,180 @@
+body{background-image: linear-gradient(135deg, #d3d6da 0, #d2d3d5 6.25%, #d0d0d0 12.5%, #cdccc9 18.75%, #c8c7c1 25%, #c1c2b8 31.25%, #b9bdaf 37.5%, #aeb7a5 43.75%, #a1b19c 50%, #93ab94 56.25%, #84a68f 62.5%, #76a28c 68.75%, #679d8a 75%, #599a8b 81.25%, #4b978d 87.5%, #3d9491 93.75%, #309295 100%);
+}
+
+
+
+body, ul,li,p{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: arial;
+    margin-right: 0px;
+    display: inline;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  
+    
+   
+}
+
+.header{
+    background-image: linear-gradient(135deg, #effefa 0, #dff7f2 10%, #ccefeb 20%, #b7e6e5 30%, #9fdce0 40%, #84d1db 50%, #67c6d8 60%, #47bbd6 70%, #1db1d5 80%, #00a7d6 90%, #009ed6 100%);
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1%;
+  
+}
+
+
+.perfil{
+    margin-left: 15%;
+}
+
+
+
+.flex {
+    height: 65vh;
+    background: black;
+    display: flex;
+    
+
+    
+}
+
+
+img{
+    max-width: 100%;
+    display: block;
+    width: 50%;
+    height: 32vh;
+    margin-left: 50%;
+    margin-top: 50px;
+   
+   
+}
+
+
+.legenda{
+  
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(135deg, #ddb6be 0, #cfafb4 10%, #bfa8a9 20%, #ada0a0 30%, #999897 40%, #848e90 50%, #6f848a 60%, #5b7b86 70%, #497282 80%, #396980 90%, #29627e 100%);
+    width: 50%;
+    height: 20vh;
+    margin-left: 50%;
+    
+    
+}
+
+
+.link{
+   padding-top: 54%;
+   margin-right: 85%;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media  (max-width:1440px){
+    img{ 
+       
+        margin-left: 15%;
+       
+        
+
+        
+    }
+}
+
+
+
+
+
+
+@media  (max-width:1440px){
+    .legenda{ 
+       
+        margin-left: 15%;
+       
+        
+
+        
+    }
+}
+
+
+
+@media  (max-width:1024px){
+    .link{ 
+       
+        padding-top: 80%;
+       
+        
+
+        
+    }
+}
+
+
+@media  (max-width:768px){
+    .link{ 
+       
+        padding-top: 105%;
+       
+        
+
+        
+    }
+}
+
+
+
+
+
